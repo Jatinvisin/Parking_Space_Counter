@@ -25,3 +25,18 @@ https://github.com/Jatinvisin/Parking_Space_Counter/assets/137675762/b72c256d-5c
 
 https://github.com/Jatinvisin/Parking_Space_Counter/assets/137675762/0b9aec19-a13c-4da7-a997-ff59285d922b
 
+# Working :
+1. The main working is done using pixel counts
+2. If the pixel counts below 900px in my dataset under the rectangular slots then the  car is not present.
+3. if the pixel counts above 900px in my dataset under the rectangular slots then the care is present.
+
+
+https://github.com/Jatinvisin/Parking_Space_Counter/assets/137675762/dc654eea-2e75-444b-9a05-73caec5a0e0e
+
+4. The pixel value is calculated by the numbers of curve irregular pixel present in imgThreshold 
+
+
+https://github.com/Jatinvisin/Parking_Space_Counter/assets/137675762/18e90068-7945-48bc-bd8c-270a70d4e8c2
+
+
+
