@@ -4,7 +4,11 @@
 
 # Parking_Space_Counter: 
 
-[Uploading Car_Park_Counter.mp4…](https://i.gyazo.com/59f271534928cdd41fa220688d6239a3.mp4)
+
+https://github.com/Jatinvisin/Parking_Space_Counter/assets/137675762/b72c256d-5c19-44e0-9052-02714698f60a
+
+
+
 
 # Libraries used :
 
